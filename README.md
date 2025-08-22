@@ -1,4 +1,4 @@
-# Happy-New-Year
+# Happy-New-Year js
 
 live preview
-https://nazneenakterdeveloper.github.io/Happy-New-Year/
+https://github.com/Nazneendev/Happy-New-Year/settings/pages
